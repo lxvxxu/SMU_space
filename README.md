@@ -1,6 +1,8 @@
 # <공강이세요?>
 ## 📖프로젝트 소개 (Introduction to the Project)
---
+![공강이세요? 앱 화면01]()
+![공강이세요? 앱 화면02]()
+
 분산되어 있는 각 건물의 강의실별 시간표와 공강 시간의 정보를 수집하여 활용 방안에 알맞게 재구성한 뒤 재구성한 자료를 앱의 배경, 버튼, 배치 등의 인터페이스를 통해 시각화하여 학습이나 휴식 공간이 필요한 상명대학교 학생들이 공강시간에 빈 강의실을 보다 쉽게 이용할 수 있는 환경을 구축한다.
 
 프로젝트의 성과물인 ‘공강이세요?’는 현 시간에 어느 건물에 어느 강의실이 비어 있는지 알 수 있게 해주는 앱이다. 사용자의 핸드폰의 시간에 맞출 수도 있고, 사용자 본인이 직접 시간과 요일을 설정해서 그 순간에 어느 강의실이 비어 있는지 확인 또한 가능하다. 학교 내부의 약도를 앱 안에서 볼 수 있게 첨부함으로써 건물들이 어느 위치에 있는지, 현재 자신의 위치와 가장 가까운 건물을 사용자 스스로가 알아볼 수 있게 했다.
@@ -14,19 +16,24 @@ It is an app that allows you to know where the lecture room is empty in the curr
 
 As a place where students can study individually study individually, it is expected that students can study individually study, it will be able to study in the necessary time through this appropriate appropriate time.Also, it is estimated only for our school lecture room, but it can be developed as a version of the school, but it will be expanded to expand the school, but also be expanded to the hotel reservation appropriate.
 
-## 📆개발 기간
----
 
-## 👥 개발자 소개
----
+## 📆 개발 기간 (Development Period)
+- 2022/04/28(THUR) ~ 2022/06/29(WED)
+- OT, 중간간담회
+- 기획 : 요구사항 분석서 작성, 업무 프로세스와 IA 작성, 화면별 기획
+- 디자인
+- 개발 및 플레이스토어 출시
+- 마케팅 : 에브리타임에 게시글 작성
+
+
+## 👥 개발자 소개 (Introducing developer)
 TEAM <공강의 공간>
 - 이채원(me) : 팀장. 프로그램 개발자. 아이디어 기획 및 디자인 보조.
 - 강임구 : QA
 - 강진경 : 마케터
 - 하선영 : 아이디어 기획 및 디자이너
 
-## ⚙️ 개발 환경
----
 
-Program : Unity
-Programming Language : C#
+## ⚙️ 개발 환경
+- Program : Unity
+- Programming Language : C#
