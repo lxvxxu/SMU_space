@@ -1,5 +1,5 @@
 # <공강이세요?>
-## 프로젝트 소개
+## 📖프로젝트 소개 (Introduction to the Project)
 ---
 분산되어 있는 각 건물의 강의실별 시간표와 공강 시간의 정보를 수집하여 활용 방안에 알맞게 재구성한 뒤 재구성한 자료를 앱의 배경, 버튼, 배치 등의 인터페이스를 통해 시각화하여 학습이나 휴식 공간이 필요한 상명대학교 학생들이 공강시간에 빈 강의실을 보다 쉽게 이용할 수 있는 환경을 구축한다.
 
@@ -13,18 +13,20 @@ After collecting information of each building that is distributed information an
 It is an app that allows you to know where the lecture room is empty in the current time.You can also meet the time of the user's phone, and you can also check where the lecture room is empty at that moment.By attaching the weakness inside the school, the building was able to see what location within the app, and the nearest building, the nearest building.
 
 As a place where students can study individually study individually, it is expected that students can study individually study, it will be able to study in the necessary time through this appropriate appropriate time.Also, it is estimated only for our school lecture room, but it can be developed as a version of the school, but it will be expanded to expand the school, but also be expanded to the hotel reservation appropriate.
----
-## 개발 기간
 
+## 📆개발 기간
 ---
-## 개발자 소개
+
+## 👥 개발자 소개
+---
 TEAM <공강의 공간>
 - 이채원(me) : 팀장. 프로그램 개발자. 아이디어 기획 및 디자인 보조.
 - 강임구 : QA
 - 강진경 : 마케터
 - 하선영 : 아이디어 기획 및 디자이너
+
+## ⚙️ 개발 환경
 ---
-## 개발 환경
 Program : Unity
 Programming Language : C#
 ---
